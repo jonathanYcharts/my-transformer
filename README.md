@@ -11,6 +11,12 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+## Deactivate virtual environment
+
+```bash
+deactivate
+```
+
 ## Run
 
 ```bash
